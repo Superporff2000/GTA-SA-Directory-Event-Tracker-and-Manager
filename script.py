@@ -8,7 +8,7 @@ from watchdog.events import FileSystemEventHandler
 
 class monitorFolder(FileSystemEventHandler):
     global FILE_SIZE
-    FILE_SIZE = 0
+    FILE_SIZE = 10
     
     def on_created(self, event):
         print('File created in path:', event.src_path, 'type:', event.event_type)
