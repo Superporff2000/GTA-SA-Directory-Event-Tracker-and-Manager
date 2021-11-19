@@ -1,0 +1,16 @@
+Date of creation: Thu, 18 Nov 2021
+
+-----
+# Aim
+To create an activity tracker that tracks and logs changes that occur in a folder such as addition, modification or deletion of files/folders in a directory, in a csv file.
+
+-----
+# Scope of the Project
+- Activity tracker
+- Activity logger
+
+-----
+# Tools used
+- Python
+- Git
+- GitHub
